@@ -21,6 +21,7 @@ Specifically:
 * Desire to add a presentation of users availability in the wireframe.
 * User wishes it were more clear if emails or phone numbers should be used
 * User wants to be able to send reminders, and see if their invitees use the same interface
+
 As a team, we also received positive feedback from our usability testing, including: 
 * User was happy with the ability to create an account 
 * The user had an easy time familiarizing themself with the interface 
