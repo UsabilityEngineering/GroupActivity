@@ -14,6 +14,7 @@ Through collaboration with our SE team, we were able to determine changes that c
 ## Findings
 
 After creating our wireframe, prototype, and implementing usability testing, we have been given feedback on Group Activity. Our usability testing defined what changes need to be made to Group Activity. 
+
 Specifically: 
 * Provide more context in our invitation regarding the event description.
 * Make the wording on our wireframe more clear and understandable.
