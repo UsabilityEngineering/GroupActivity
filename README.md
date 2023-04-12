@@ -11,10 +11,9 @@ Group Activity is a web project designed to make organizing and planning events 
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/x06_Personas_and_Scenarios.pdf)
 * [Sketches and Diagrams](sketches/ux_sketches.pdf)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](wireframes/readme.md)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
@@ -31,11 +30,13 @@ People of all demographics have social lives and busy schedules throughout the d
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+People of all demographics have social lives and busy schedules throughout the day. Oftentimes it is hard for people to find the room to make space for both in their time. Group Activity will innovate how people interact and plan social events with each other while keeping in mind the busy schedules we keep throughout the day.
+* We created wireframes to reflect how the application user interface would look at the most basic design.
+* We transitioned from a basic wireframe to an interactive prototype including the interface's most basic functions in order to suit our predetermined personas and scenarios. 
+* By outsourcing users in order to conduct cognitive walkthroughs and simulate persona scenarios while interacting with our prototype, we received feedback where our current design may need improvement.
+* Feedback from cognitive walkthroughs include: Users wish for a clearer understanding of the contact information needed on a friend invite. Instead of a binary response (accept/decline) to invitations, provide a way to chat between the users. Provide more context in our invitation regarding the event description. Make the wording on our wireframe clearer and more understandable.
+* Through in person collaboration with our Software Engineering team, we exchanged additional feedback in order to streamline our team’s thoughts to better the user experience with Group Activity.
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
 
 [Full phase II report](phaseII/)
 
