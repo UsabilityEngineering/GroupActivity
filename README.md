@@ -19,6 +19,7 @@ Group Activity is a web project designed to make organizing and planning events 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
+
 People of all demographics have social lives and busy schedules throughout the day. Oftentimes it is hard for people to find the room to make space for both in their time. Group Activity will innovate how people interact and plan social events with each other while keeping in mind the busy schedules we keep throughout the day.
 * We conducted competitive analysis on leading products we found to be strong competitors in what users would use our application for.
 * We conducted heuristic evaluations on the competitor we found to be the strongest in what our users would be looking for.
@@ -30,6 +31,7 @@ People of all demographics have social lives and busy schedules throughout the d
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+
 People of all demographics have social lives and busy schedules throughout the day. Oftentimes it is hard for people to find the room to make space for both in their time. Group Activity will innovate how people interact and plan social events with each other while keeping in mind the busy schedules we keep throughout the day.
 * We created wireframes to reflect how the application user interface would look at the most basic design.
 * We transitioned from a basic wireframe to an interactive prototype including the interface's most basic functions in order to suit our predetermined personas and scenarios. 
