@@ -7,7 +7,9 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 ## Methods
 
 In order to test the usability of our product, we created wireframes. Our wireframes created a basic and spatially organized example of Group Activity. We transitioned from a basic wireframe to a prototype by implementing the foreseen tasks of Group Activity.  By utilizing outside parties, we were able to test our basic prototype from a user’s point of view, through cognitive walkthroughs. 
+
 Our third party tester utilized our previously outlined Personas and Scenarios, in order to complete the desired tasks within the prototype. Our testers implemented a task-based usability-inspection, and reported back their findings and feedback, allowing us to understand any changes that must be made to Group Activity. 
+
 Through collaboration with our SE team, we were able to determine changes that can be made to visual design for a stronger product. 
 
 
@@ -37,11 +39,13 @@ Through informal feedback from our accompanying SE team, changes such as simplif
 ## Conclusions
 
 Taking the feedback from the cognitive walkthroughs, we hope to implement a binary response (accept/decline) to invitations, a clearer indication of email or phone, and an area for a description within an invite. 
+
 From our SE team’s criticism, we plan to incorporate a more seamless interface, with essentially a split screen. Currently, we have a calendar main view with a side bar for upcoming events. We want to transition from a stagnant sidebar of upcoming events to a sidebar of whatever the user chooses to have open. This could be menu, invites, current events, or any other tabs available. The goal is to create less ‘pop-up’ tabs and instead insert them into the side bar area. This will create a less hectic screen for the user, and will create an easier to understand interface. 
 
 
 ## Caveats
 
 Even though our Usability Testers were a third party, they are also participating in CSCI 430W, giving them a different viewpoint than the typical user. This could influence their experience while interacting with our prototype, and therefore affect their usability report. 
+
 Given the limited scope of the wireframe prototype, the viewpoints of the Usability Testers on working with the product will be different than that of a typical user. The functionality of a more developed prototype would be more extensive than the prototype used. This may affect the tester’s experience.
 
