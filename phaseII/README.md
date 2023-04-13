@@ -33,6 +33,7 @@ As a team, we also received positive feedback from our usability testing, includ
 * User is satisfied with the ability to make and view events
 * User is happy to be able to click on events for further information
 * User was able to satisfy his needs with the application and achieved his goal.
+
 Through informal feedback from our accompanying SE team, changes such as simplifying the pop up windows on the website, unifying the different sections onto the home page to declutter the screen space were outlined as ways to improve the user experience.
 
 
