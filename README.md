@@ -14,7 +14,7 @@ Group Activity is a web project designed to make organizing and planning events 
 * [Personas and Scenarios](personas/x06_Personas_and_Scenarios.pdf)
 * [Sketches and Diagrams](sketches/ux_sketches.pdf)
 * [Wireframes](wireframes/readme.md)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/e80e0b77-1f48-4945-891f-ecb07ea71eee-bd5d/) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
