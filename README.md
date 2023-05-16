@@ -45,6 +45,13 @@ People of all demographics have social lives and busy schedules throughout the d
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
+People of all demographics have social lives and busy schedules throughout the day. Oftentimes it is hard for people to find the room to make space for both in their time. Group Activity will innovate how people interact and plan social events with each other while keeping in mind the busy schedules we keep throughout the day.
+
+* Created a Usability Test Plan going over objective, study design, participant screening and the method in which we will do the test
+* Underwent training to get the ability to conduct user tests in a professional environment
+* Created a protocol that outlines the method we chose getting users background, completing tasks and debriefing them.
+* Conducted a pilot test amongst the team members to prepare for user test
+* Conducted final official user test with 5 individuals using our protocol when testing them
 
 
 
