@@ -21,10 +21,10 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 ### Task 1 Findings:
 * Users were able to complete this task easily and as intended, some confusion and questions came up regarding specific information around the people they were accepting and sending invites to but the act of completing the task was completed as intended with nearly perfect scores with the SEEMULES usability standards except one instance where a user rated error tolerance with a 7 because he “wasn't sure what would happen if [he] declined the invitation”.
 
-	### Task 2 Findings:
+### Task 2 Findings:
 * Users had no problem completing task 2, however they were a little confused on whether their event was made public or private to their friends. P2 said, “there was no indication of whether or not people could see the event or not.” Other than that we received a score average of 7 for our SEEMULES tests. 
 
-	### Task 3 Findings:
+### Task 3 Findings:
 * All users were able to complete the task with no trouble at all, everything was easy and clear enough for them to understand what they were doing and how the website worked. Our SEEMULES average for this task was 10.
 
 
