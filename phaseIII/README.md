@@ -28,7 +28,7 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 * All users were able to complete the task with no trouble at all, everything was easy and clear enough for them to understand what they were doing and how the website worked. Our SEEMULES average for this task was 10.
 
 ### Debrief:
-* User found that while the Group Activity prototype did not have many of the features that other applications had but they felt like its simplicity and direct approach in planning events with friends was preferable over the complicated approach to setting them up elsewhere.
+* User found that while the Group Activity prototype did not have many of the features that other applications had, but they felt like its simplicity and direct approach in planning events with friends was preferable over the complicated approach to setting them up elsewhere.
 
 
 ## Conclusions
