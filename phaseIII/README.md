@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+A simple and easy way of planning events is crucial in order to have a stress free social calendar. With clear options for the user such as reminding them of upcoming events, adding friends, accepting and declining proposals, and showing availability. We believe Group Activity provides an easier and more efficient way of connecting users than our competitors.
 
 ## Methods
 
