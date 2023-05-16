@@ -33,7 +33,9 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+* Through our findings we were able to identify issues we had with our application. Most of the issues we had involved task 2 as participants were unsure what would happen if they declined an event or if their event actually became public when clicking the public button. In our revision of our prototype we will leave the invitation on our invite list after it is declined until the date of the event. For our public/private issue, we will automatically set our events to private, giving the user the option to make them public. Hopefully removing the confusion that feature is creating.
+* Overall our prototype seems to be moving in the right direction. Participant feedback was mostly positive and issues we discovered through our findings have been recorded and can be resolved in future work.
+
 
 ## Caveats
 
