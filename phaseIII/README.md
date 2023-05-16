@@ -15,20 +15,20 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 ## Findings
 
 ### User Backgrounds:
-* Most users had experience with using an online planner through other websites such as google calendar, outlook planner, and apple calendar. Users used these applications due to their accessibility and ease of use when planning events. 
-* Some users had no experience using a planner or calendar application and had either lived with the chaos that such a lifestyle provides or had instead used physical handwritten planners and calendars.
+* Most participants had experience with using an online planner through other websites such as google calendar, outlook planner, and apple calendar. Participants used these applications due to their accessibility and ease of use when planning events. 
+* Some participants had no experience using a planner or calendar application and had either lived with the chaos that such a lifestyle provides or had instead used physical handwritten planners and calendars.
 	
 ### Task 1 Findings:
-* Users were able to complete this task easily and as intended, some confusion and questions came up regarding specific information around the people they were accepting and sending invites to but the act of completing the task was completed as intended with nearly perfect scores with the SEEMULES usability standards except one instance where a user rated error tolerance with a 7 because he “wasn't sure what would happen if [he] declined the invitation”.
+* Participants were able to complete this task easily and as intended, some confusion and questions came up regarding specific information around the people they were accepting and sending invites to but the act of completing the task was completed as intended with nearly perfect scores with the SEEMULES usability standards.
 
 ### Task 2 Findings:
-* Users had no problem completing task 2, however they were a little confused on whether their event was made public or private to their friends. P2 said, “there was no indication of whether or not people could see the event or not.” Other than that we received a score average of 7 for our SEEMULES tests. 
+* Participants had no problem completing task 2, however they were a little confused whether their event was made public or private to their friends. Participant 2 said, “there was no indication of whether or not people could see the event or not”. Also there was an additional instance where another participant said he wasn't “sure what would happen if [they] declined the invitation”. Other than that we received a score average of 7 for our SEEMULES tests. 
 
 ### Task 3 Findings:
-* All users were able to complete the task with no trouble at all, everything was easy and clear enough for them to understand what they were doing and how the website worked. Our SEEMULES average for this task was 10.
+* All participants were able to complete the task with no trouble at all, everything was easy and clear enough for them to understand what they were doing and how the website worked. Our SEEMULES average for this task was 10.
 
 ### Debrief:
-* User found that while the Group Activity prototype did not have many of the features that other applications had, but they felt like its simplicity and direct approach in planning events with friends was preferable over the complicated approach to setting them up elsewhere.
+* Participants found that while the Group Activity prototype did not have many of the features that other applications had, but they felt like its simplicity and direct approach in planning events with friends was preferable over the complicated approach to setting them up elsewhere.
 
 
 ## Conclusions
