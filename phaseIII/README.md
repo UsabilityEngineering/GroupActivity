@@ -41,4 +41,5 @@ A simple and easy way of planning events is crucial in order to have a stress fr
 
 * Caveats to our study may include a restriction of participants used within the study. Because each of the five participants are also in the Usability Engineering Class CSCI 430W, they may have had a different set of expectations going into the usability testing. These expectations could range from a difference in technological ability and natural problem solving skills, differing from the average population.
 * Another caveat being that with the limited number of participants it is harder to get good and varied participant results especially when these results are reliant on making sure all participants are show up and accounted for.
+* Another caveat could be the age group of our participants. Most of the participants are in their 20’s or younger. We would like our planner to be used by people of all ages, including those around the age of 40 or older.
 
